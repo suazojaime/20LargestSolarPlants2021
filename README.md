@@ -3,7 +3,8 @@ Distribution by country of the largest 20 Solar plants by 2021
 
 ![image](https://user-images.githubusercontent.com/81306499/143096935-92b56c2b-ab9c-4300-9efb-bb4578d1eda4.png)
 
-Notice the distribution slightly to the north of the Prime meridian and how Inia is leading in production.
+
+Notice the distribution slightly to the north of the Prime meridian and how India is leading in production.
 
 
 ![image](https://user-images.githubusercontent.com/81306499/143097185-a00323e6-9cbf-4262-82e9-837fff32dab1.png)
