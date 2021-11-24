@@ -15,4 +15,4 @@
 ![image](https://user-images.githubusercontent.com/81306499/143097185-a00323e6-9cbf-4262-82e9-837fff32dab1.png)
 
 
-**From this image we can easily see that India is investing heavily comparing to others countries, they have pretty much the whole spectrum in terms of sizes, and two of the biggest Plants, and how the United Arab Emirates have the biggest one in size **
+** From this image we can easily see that India is investing heavily comparing to others countries, they have pretty much the whole spectrum in terms of sizes, and two of the biggest Plants, and how the United Arab Emirates have the biggest one in size **
